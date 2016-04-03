@@ -1,0 +1,11 @@
+{
+  "generator-reveal": {
+    "presentationTitle": "SimpleUnitTest",
+    "packageVersion": "0.0.0",
+    "revealTheme": "beige",
+    "useSass": false,
+    "deployToGithubPages": true,
+    "githubUsername": "masakura",
+    "githubRepository": "unittest-simple-slide"
+  }
+}

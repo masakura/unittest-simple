@@ -1,5 +1,11 @@
 ### そして単体テスト!
 
 ```csharp
-// ToDo 単体テスト例を提示
+[Test]
+public void TestCalculate()
+{
+    var result = [Default].Calculate(VideoType.New, 8);
+
+    Assert.That(result, Is.EqualTo(4000));
+}
 ```

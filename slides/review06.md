@@ -2,4 +2,5 @@
 
 依存関係がないメソッドの単体テストはとても簡単!
 
-ToDo 図で示す
+![簡単な例](resources/easy.png)
+![難しい例](resources/difficult.png)
